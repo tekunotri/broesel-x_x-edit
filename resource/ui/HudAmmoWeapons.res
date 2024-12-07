@@ -36,7 +36,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"		"surfaceHPAmmo72"
+		"font"		"surface46"
 		"fgcolor"		"Ammo in Clip"
 		"xpos"		"-90"
 		"ypos"		"3"
@@ -52,7 +52,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"		"surfaceHPAmmo72"
+		"font"		"surface46"
 		"fgcolor"		"0 0 0 255"
 		"xpos"		"-89"
 		"ypos"		"4"
@@ -100,7 +100,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmonoClip"
-		"font"		"surfaceHPAmmo72"
+		"font"		"surface46"
 		"fgcolor"		"Ammo in Clip"
 		"xpos"		"35"
 		"ypos"		"3"
@@ -116,7 +116,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmonoClipshadow"
-		"font"		"surfaceHPAmmo72"
+		"font"		"surface46"
 		"fgcolor"		"0 0 0 255"
 		"xpos"		"36"
 		"ypos"		"4"
